@@ -48,7 +48,7 @@ SDG 8: Decent Work and Economic Growth
 SDG 9: Industry, Innovation, and Infrastructure
 	The program aligns with SDG 9 by offering a creative platform that brings mentors and apprentices together, improving how knowledge and skills are shared. By using digital technology, it creates an accessible and scalable way for individuals to grow personally and professionally. This method helps close knowledge gaps, especially in industries where ongoing learning and skill development are essential. At the same time, it supports industry growth by strengthening the skills of the workforce, making it more adaptable and ready for the future.
 
- ##PROGRAM/SYSTEM INSTRUCTIONS
+ ## PROGRAM/SYSTEM INSTRUCTIONS
 1. Download all necessary files in this account.
 2. Once the files are all donwloaded. Make a new folder named as "skillhubdb", then put the files except for the backgroundpage.png and main.py.
 3. Once done, copy and paste the folder in this path, 'xampp/mysql/data'. If it's not the same as yours, find the data folder on your xampp files.
