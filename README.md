@@ -1,4 +1,4 @@
-##PROJECT OVERVIEW
+## PROJECT OVERVIEW
 
   The purpose of this system is to facilitate efficient mentorship management and user interaction by providing a platform that connects mentors and apprentices seamlessly. The system enables users to search for mentors, request mentorships, and manage profiles, all while fostering a supportive learning environment. It aims to streamline mentorship processes and enhance user engagement, supporting the organization’s mission to empower individuals through guided learning and skill development.
 
@@ -20,7 +20,7 @@
 *  Administrators: Responsible for system maintenance and user management.
 
 
-##This project aims to:
+## This project aims to:
 
   -"enable the users to search and find appropriate mentors based on parameters (e.g., expertise, location) with 90% of queries getting correct results in less than 10 seconds by the first quarter of 2024.”
 
@@ -34,7 +34,7 @@
 	
   -“collect and analyze mentor search data to produce meaningful insight for the purpose of system improvement. The work will be due by the second quarter of 2024.”
 
-##SUSTAINABLE DEVELOPMENT GOALS
+## SUSTAINABLE DEVELOPMENT GOALS
 
 This program aligns with the Sustainable Development Goals (SDGs) 4, 8, and 9 by fostering education, economic growth, and innovation.
 
@@ -50,6 +50,13 @@ SDG 9: Industry, Innovation, and Infrastructure
 
  ##PROGRAM/SYSTEM INSTRUCTIONS
 1. Download all necessary files in this account.
-2. Once the files are all donwloaded. Make a new folder named as "skillhubdb", then put the files except for the background.png and 
+2. Once the files are all donwloaded. Make a new folder named as "skillhubdb", then put the files except for the backgroundpage.png and main.py.
+3. Once done, copy and paste the folder in this path, 'xampp/mysql/data'. If it's not the same as yours, find the data folder on your xampp files.
+4. Then, run the xampp application and open your python ide (VSCode, Pycharm, etc.)
+5. To make sure the program will run, install the customtkinter library.
+   	5.1 Open your command prompt
+   	5.2 Input "pip install customtkinter", if it's not working replace the "pip" with "pip3"
+6. If the steps above are done, you can now run the program.
+7. Read first the documentation for easily navigation inside the program.
 
 
